@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FreeCRM Application Test Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.FreeCRM.Report_Generation.ExtentReport_Listener"/>
+  </listeners>
+  <test thread-count="5" name="FreeCRM Test Cases(failed)">
+    <classes>
+      <class name="com.FreeCRM.Test_Classes.Login_Page_Test_TC_002">
+        <methods>
+          <include name="login_To_FreeCRM_with_Valid_credentials"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.FreeCRM.Test_Classes.Login_Page_Test_TC_002 -->
+    </classes>
+  </test> <!-- FreeCRM Test Cases(failed) -->
+</suite> <!-- Failed suite [FreeCRM Application Test Automation Test Suite] -->

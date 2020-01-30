@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FreeCRM Application Test Automation Test Suite" duration-ms="95162" started-at="2020-01-29T05:41:13 IST" finished-at="2020-01-29T05:42:48 IST">
+    <groups>
+    </groups>
+    <test name="FreeCRM Test Cases" duration-ms="95162" started-at="2020-01-29T05:41:13 IST" finished-at="2020-01-29T05:42:48 IST">
+      <class name="com.FreeCRM.Test_Classes.FreeCRM_Page_Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.FreeCRM.Test_Classes.FreeCRM_Page_Test@4a067c25]" name="setup" is-config="true" duration-ms="55680" started-at="2020-01-29T05:41:13 IST" finished-at="2020-01-29T05:42:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="freeCRM_test_text()[pri:1, instance:com.FreeCRM.Test_Classes.FreeCRM_Page_Test@4a067c25]" name="freeCRM_test_text" duration-ms="23767" started-at="2020-01-29T05:42:11 IST" description="Verifying the Link &amp; Text in the FreeCRM Page" finished-at="2020-01-29T05:42:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeCRM_test_text -->
+        <test-method status="PASS" signature="freeCrm_Signup_link()[pri:2, instance:com.FreeCRM.Test_Classes.FreeCRM_Page_Test@4a067c25]" name="freeCrm_Signup_link" duration-ms="93" started-at="2020-01-29T05:42:46 IST" description="Verifying the Sign up link in the Page" finished-at="2020-01-29T05:42:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeCrm_Signup_link -->
+        <test-method status="PASS" signature="freeCrm_getTitle()[pri:3, instance:com.FreeCRM.Test_Classes.FreeCRM_Page_Test@4a067c25]" name="freeCrm_getTitle" duration-ms="23" started-at="2020-01-29T05:42:47 IST" description="Getting &amp; Verifying Title of the Page" finished-at="2020-01-29T05:42:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeCrm_getTitle -->
+        <test-method status="PASS" signature="freeCrm_test_currentURL()[pri:4, instance:com.FreeCRM.Test_Classes.FreeCRM_Page_Test@4a067c25]" name="freeCrm_test_currentURL" duration-ms="17" started-at="2020-01-29T05:42:47 IST" description="Getting &amp; Verifying the current URL of the Page" finished-at="2020-01-29T05:42:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeCrm_test_currentURL -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.FreeCRM.Test_Classes.FreeCRM_Page_Test@4a067c25]" name="teardown" is-config="true" duration-ms="1277" started-at="2020-01-29T05:42:47 IST" finished-at="2020-01-29T05:42:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.FreeCRM.Test_Classes.FreeCRM_Page_Test -->
+    </test> <!-- FreeCRM Test Cases -->
+  </suite> <!-- FreeCRM Application Test Automation Test Suite -->
+</testng-results>

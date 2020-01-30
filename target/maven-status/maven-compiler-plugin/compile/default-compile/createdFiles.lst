@@ -1,0 +1,7 @@
+com\FreeCRM\Page_Classes\Login_Page.class
+com\FreeCRM\Page_Classes\FreeCRM_Page.class
+com\FreeCRM\Report_Generation\ExtentReport_Generation.class
+com\FreeCRM\Base_Class\Base_Class.class
+com\FreeCRM\Util_Classes\Test_Util_Class.class
+com\FreeCRM\Page_Classes\Home_page.class
+com\FreeCRM\Report_Generation\ExtentReport_Listener.class

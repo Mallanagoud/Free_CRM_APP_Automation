@@ -1,0 +1,22 @@
+2020-01-29 05:45:19,032  INFO [main] Base_Class:34 - Browser Name : - chrome
+2020-01-29 05:45:48,134  INFO [main] Base_Class:40 - Chrome Browser Opened
+2020-01-29 05:45:48,135  INFO [main] Base_Class:58 - Deleting the All Cookies
+2020-01-29 05:45:48,619  INFO [main] Base_Class:60 - Maximizing the Window of the Browser
+2020-01-29 05:45:49,874  INFO [main] Base_Class:62 - Page load Timeout
+2020-01-29 05:45:49,888  INFO [main] Base_Class:64 - Implicit wait
+2020-01-29 05:45:49,897  INFO [main] Base_Class:67 - URL of the Application : - https://freecrm.co.in/
+2020-01-29 05:46:07,977  INFO [main] Base_Class:69 - Opening the URL in the Browser
+2020-01-29 05:46:07,978  INFO [main] FreeCRM_Page_Test:30 - Calling the Browser from the Base class
+2020-01-29 05:46:16,141  INFO [main] FreeCRM_Page_Test:40 - Verifying the Link & Text in the FreeCRM Page
+2020-01-29 05:46:16,988  INFO [main] FreeCRM_Page_Test:43 - Validating the Text in the Page: - Free CRM Software in the Cloud
+2020-01-29 05:46:17,450  INFO [main] FreeCRM_Page_Test:47 - Test case passed
+2020-01-29 05:46:25,075  INFO [main] FreeCRM_Page_Test:62 - Verifying the Sign up link in the Page
+2020-01-29 05:46:25,167  INFO [main] FreeCRM_Page_Test:65 - Text in the Signup link: - SIGN UP
+2020-01-29 05:46:25,168  INFO [main] FreeCRM_Page_Test:69 - Test case passed
+2020-01-29 05:46:25,891  INFO [main] FreeCRM_Page_Test:84 - Getting & Verifying the Getting Title in the Page
+2020-01-29 05:46:25,924  INFO [main] FreeCRM_Page_Test:87 - Title of the Page Current Page :-Free CRM #1 cloud software for any business large or small
+2020-01-29 05:46:25,925  INFO [main] FreeCRM_Page_Test:91 - Test case passed
+2020-01-29 05:46:26,064  INFO [main] FreeCRM_Page_Test:106 - Getting & Verifying the current URL in the Page
+2020-01-29 05:46:26,176  INFO [main] FreeCRM_Page_Test:108 - URL of the Current Page : - https://freecrm.co.in/
+2020-01-29 05:46:26,176  INFO [main] FreeCRM_Page_Test:113 - Test case passed
+2020-01-29 05:46:26,488  INFO [main] Base_Class:73 - Closing the Opened Browser
